@@ -1,1 +1,2 @@
-1;
+const num = 2;
+console.log(num * num);
